@@ -17,7 +17,7 @@ def add_args(parser):
         "--test",
         default="data/test.csv",
         type=str,
-        help="Test CSV"
+        help="Test CSV again"
     )
     parser.add_argument(
         "--pct_val",
